@@ -2,6 +2,6 @@
 Today I learned
 
 
-## Opencv
+## Computer Vision
 
 Computer Vision Project using Opencv library
