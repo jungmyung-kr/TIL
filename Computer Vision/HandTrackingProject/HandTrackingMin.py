@@ -1,8 +1,8 @@
-# pip install mediapipe
-
 """
 Basics
 """
+
+# pip install mediapipe
 
 ############
 # Module import
@@ -44,7 +44,7 @@ cap = cv2.VideoCapture(0)  # 0번째 카메라 장치
 
 mpHands = mp.solutions.hands
 hands = mpHands.Hands()
-mpDraw = mp.solutions.drawing_utils  # with this it draws
+mpDraw = mp.solutions.drawing_utils  # with this, it draws
 
 '''
 default parameters : 
