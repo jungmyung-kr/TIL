@@ -10,4 +10,4 @@ Computer Vision Project using Opencv library
   * Hand Tracking basic codes
   * Hand Tracking modules
 
-* Data Analysis
+* Data Analysis and Machine Learning Projects
