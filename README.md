@@ -11,3 +11,9 @@ Computer Vision Project using Opencv library
   * Hand Tracking modules
 
 * Data Analysis and Machine Learning Projects
+
+***
+
+## Python 
+
+* Web Scraping
