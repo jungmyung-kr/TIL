@@ -7,7 +7,7 @@ Today I learned
 Computer Vision Project using Opencv library
 
 * Hand Tracking Project
-  * Hand Tracking basic codes
+  * Hand Tracking basic codes 
   * Hand Tracking modules
 
 * Data Analysis and Machine Learning Projects
